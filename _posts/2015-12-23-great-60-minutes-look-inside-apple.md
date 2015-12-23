@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.cbsnews.com'
   name: Cbsnews
-  favicon: 'http://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/favicon.ico?v=8ef31f49ef3c0e395bebd45d93713d5e31880f77'
   domain: www.cbsnews.com
+  url: 'http://www.cbsnews.com'
+  favicon: 'http://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/favicon.ico?v=8ef31f49ef3c0e395bebd45d93713d5e31880f77'
 keywords:
   - apple
   - cook
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.cbsnews.com/news/60-minutes-apple-tim-cook-charlie-rose/'
 title: Great 60 Minutes Look Inside Apple
-datePublished: '2015-12-23T02:59:03.604Z'
-dateModified: '2015-12-23T02:56:40.413Z'
+datePublished: '2015-12-23T08:15:20.721Z'
+dateModified: '2015-12-23T08:13:42.731Z'
 sourcePath: _posts/2015-12-23-great-60-minutes-look-inside-apple.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
