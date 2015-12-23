@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Thoughts on the Leadership at Apple
 cta:
   domain: null
   bucket: null
