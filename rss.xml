@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[AppleLeadership]]></title>
         <description><![CDATA[AppleLeadership]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/appleleadership/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 02:36:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 02:46:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/appleleadership/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World, I believe in Apple. ]]></title>
             <description><![CDATA[<article><h1>Hello World, I believe in Apple. </h1><p>My name is Scott Greer and I am a PhD student at Alliant International University. I am studying the concept of leadership and I am fascinated and intrigued by Apple. Because of this and my desire to tie my work to something that interests me, I have decided to look at different events and leadership decisions with Apple using academic models and concepts. </p></article>]]></description>
-            <link>undefinedhello-world-i-believe-in-apple/index.html</link>
+            <link>https://thegrid.ai/appleleadership/hello-world-i-believe-in-apple/index.html</link>
             <guid isPermaLink="false">9f5e8575-859a-4614-baa4-df505577a4c5</guid>
-            <pubDate>Wed, 23 Dec 2015 02:36:34 GMT</pubDate>
+            <pubDate>Wed, 23 Dec 2015 02:46:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
