@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:99f9420c-5e86-43c3-b977-7138439b2849'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2015-12-23T08:47:19.767Z'
+dateModified: '2015-12-23T08:47:02.407Z'
 author: []
-datePublished: '2015-12-23T08:39:51.014Z'
-publisher:
-  domain: ''
-  name: ''
 title: Tom Cotton takes on TimCook
-dateModified: '2015-12-23T08:39:12.664Z'
 sourcePath: _posts/2015-12-23-tom-cotton-takes-on-timcook.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: tom-cotton-takes-on-timcook/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
