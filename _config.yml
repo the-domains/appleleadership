@@ -1,7 +1,5 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
+name: AppleLeadership
 opengraph:
   image: null
   type: null
@@ -21,20 +19,22 @@ collections:
 purpose: []
 color:
   saturation: 0.9316465
-  lightness: 0.6374866
   brandStrength: 0.8039742
+  lightness: 0.6374866
   brandColors:
-    - '#9CA1A2'
     - '#FFFFFF'
-    - '#E9AB92'
-    - '#885C4C'
-    - '#4A423A'
+    - '#F7831E'
+    - '#63BD49'
+    - '#973D98'
+    - '#019FDF'
   rhythmicContrast: 0.8748657
 typography_spectrum: 0.3378088
-layout_spectrum: 0.5827067
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: AppleLeadership
+layout_spectrum: 0.5827067
