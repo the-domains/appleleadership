@@ -1,28 +1,40 @@
-name: AppleLeadership
-favicon: null
-layout_spectrum: 0.04072103509679437
-typography_spectrum: 0.9384730274323374
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+  domain: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5147495735436678
-  lightness: 0.10551267769187689
-  saturation: 0.931646469514817
-  rhythmicContrast: 0.8985532913357019
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9316465
+  lightness: 0.6374866
+  brandStrength: 0.8039742
+  brandColors:
+    - '#9CA1A2'
+    - '#FFFFFF'
+    - '#E9AB92'
+    - '#885C4C'
+    - '#4A423A'
+  rhythmicContrast: 0.8748657
+typography_spectrum: 0.3378088
+layout_spectrum: 0.5827067
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: AppleLeadership
