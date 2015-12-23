@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Introduction
-datePublished: '2015-12-23T02:49:16.190Z'
-dateModified: '2015-12-23T02:46:24.026Z'
+datePublished: '2015-12-23T08:20:06.096Z'
+dateModified: '2015-12-23T08:19:54.936Z'
 title: 'Hello World, I believe in Apple. '
 author: []
+sourcePath: _posts/2015-12-23-hello-world-i-believe-in-apple.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-23-hello-world-i-believe-in-apple.md
-published: true
 url: hello-world-i-believe-in-apple/index.html
 _type: Article
 
