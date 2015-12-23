@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AppleLeadership]]></title>
-        <description><![CDATA[AppleLeadership]]></description>
+        <title><![CDATA[Thoughts on the Leadership at Apple]]></title>
+        <description><![CDATA[Thoughts on the Leadership at Apple]]></description>
         <link>https://thegrid.ai/appleleadership/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 08:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 08:40:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/appleleadership/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Great 60 Minutes Look Inside Apple]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbsnews.com/news/60-minutes-apple-tim-cook-charlie-rose/</link>
             <guid isPermaLink="false">f2636dff-b5cc-42c0-8b1f-8c6848692d24</guid>
             <pubDate>Wed, 23 Dec 2015 08:15:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tom Cotton takes on TimCook]]></title>
+            <description><![CDATA[<article><h1>Tom Cotton takes on TimCook</h1><p>By: Roger Fingas In a statement issued on Monday, U.S. Senator Tom Cotton, a Republican from Arkansas, criticized Tim Cook for his defense of strong encryption during a 60 Minutes interview, claiming that the Apple CEO had "omitted critical facts."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7205779653c09ddcbbc7b454f253fd8ef0503956.jpg"></article>]]></description>
+            <link>https://thegrid.ai/appleleadership/tom-cotton-takes-on-timcook/index.html</link>
+            <guid isPermaLink="false">4484930e-e8e7-4eed-809d-1d78cad58abe</guid>
+            <pubDate>Wed, 23 Dec 2015 08:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hello World, I believe in Apple. ]]></title>
