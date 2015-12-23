@@ -1,0 +1,28 @@
+name: AppleLeadership
+favicon: null
+layout_spectrum: 0.04072103509679437
+typography_spectrum: 0.9384730274323374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5147495735436678
+  lightness: 0.10551267769187689
+  saturation: 0.931646469514817
+  rhythmicContrast: 0.8985532913357019
+purpose: []
