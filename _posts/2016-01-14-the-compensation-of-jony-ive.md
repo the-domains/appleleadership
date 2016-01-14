@@ -1,7 +1,7 @@
 ---
 description: ''
 author: []
-datePublished: '2016-01-14T20:09:12.979Z'
+datePublished: '2016-01-14T20:09:13.005Z'
 publisher:
   name: ''
   domain: ''
