@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-01-14T20:03:16.035Z'
+datePublished: '2016-01-14T20:09:12.979Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: The Compensation of Jony Ive
-dateModified: '2016-01-14T20:02:31.168Z'
+dateModified: '2016-01-14T20:04:54.228Z'
 sourcePath: _posts/2016-01-14-the-compensation-of-jony-ive.md
 published: true
 inFeed: true
